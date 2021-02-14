@@ -2,8 +2,8 @@ package com.algorithm.leetcode;
 
 /**
  * @ClassName Code_66
- * @Description TODO
- * @Author dwj
+ * @Description plus one
+ * @Author rey
  * @Date 2021/2/14 下午8:07
  */
 public class Code_66 {
